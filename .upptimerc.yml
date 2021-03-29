@@ -4,13 +4,9 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
-  - name: TCP ping
+  - name: Portfolio
+    url: https://www.snipey.dev
+  - name: TStephanie Minecraft Server
     url: 24.10.60.129:25569
 
 status-website:
