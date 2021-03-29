@@ -7,7 +7,7 @@ sites:
   - name: Portfolio
     url: https://www.snipey.dev
   - name: Game Server
-    url: 24.10.60.129
+    url: $GAMESERVER_NODE1
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
