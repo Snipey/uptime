@@ -7,7 +7,7 @@ sites:
   - name: Portfolio
     url: https://www.snipey.dev
   - name: Game Server
-    url: "24.10.60.129:25569"
+    url: 24.10.60.129
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -17,9 +17,11 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "SnipeyDev Service Monitor"
   introMessage: This is a sample status page
   navbar:
+    - title: home
+      href: https://snipey.dev
     - title: Status
       href: /
     - title: GitHub
