@@ -6,10 +6,7 @@ repo: uptime # Your GitHub repository name
 sites:
   - name: Portfolio
     url: https://www.snipey.dev
-  - name: Game Server - Node 1
-    url: $GAMESERVER_NODE1
-  - name: Game Server - Node 2
-    url: $GAMESERVER_NODE2
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.snipey.dev
