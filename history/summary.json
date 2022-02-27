@@ -4,17 +4,17 @@
     "url": "https://www.snipey.dev",
     "icon": "https://favicons.githubusercontent.com/www.snipey.dev",
     "slug": "portfolio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 730,
-    "timeDay": 2065,
-    "timeWeek": 1539,
-    "timeMonth": 1464,
-    "timeYear": 730,
+    "time": 729,
+    "timeDay": 1848,
+    "timeWeek": 1508,
+    "timeMonth": 1457,
+    "timeYear": 729,
     "dailyMinutesDown": {}
   }
 ]
