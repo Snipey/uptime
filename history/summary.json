@@ -4,7 +4,7 @@
     "url": "https://www.snipey.dev",
     "icon": "https://favicons.githubusercontent.com/www.snipey.dev",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 965,
     "timeDay": 2663,
-    "timeWeek": 3410,
+    "timeWeek": 3475,
     "timeMonth": 1748,
     "timeYear": 965,
     "dailyMinutesDown": {}
